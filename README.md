@@ -2,7 +2,7 @@
 
 🚀 As a Cs Student, I'm on a mission to blend creativity with code. My journey involves turning coffee into code, debugging dreams, and crafting digital experiences.
 
-💻 Currently mastering the art of `Developmeent`. Whether it's [HTML], [CSS], or [Js], I'm always up for the challenge of pushing my coding boundaries.
+💻 Currently mastering the art of `Development`. Whether it's [HTML], [CSS], or [Js], I'm always up for the challenge of pushing my coding boundaries.
 
 🌟 Beyond the screen, I'm a curious soul exploring the intersections of tech, design, and cybersecurity.
 
